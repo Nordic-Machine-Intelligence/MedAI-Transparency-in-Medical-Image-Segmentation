@@ -4,15 +4,6 @@ MedAI-Transparency-in-Medical-Image-Segmentation
 
 This Github repository contains a starter code for `the Kvasir-SEG Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_  and `the Kvasir-Instrument Dataset <https://datasets.simula.no/kvasir-instrument/>`_ [#]_
 
-
-
-
-
-
-.. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
-**Figure 2:** 
-
-
 Data:
 =====
 
@@ -35,6 +26,23 @@ The dataset can be downloaded here:
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
 **Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images
+
+Run the code:
+-------------
+You can run the code by follwing this steps:
+#. Fork and clone this repository
+#. Download the data and extract it to the same folder as the two Jupyter notebooks in this repository
+    
+ | hyperkvasir-starter-code.ipynb
+ | kvasir-instrument-starter-code.ipynb
+ | ├── kvasir-instrument         
+ | │   ├── A0001.hea
+ | │   ├── A0001.dat
+ | │   ├── A0002.hea
+ | │   ├── A0002.dat
+ | │   └── Axxxx.dat
+#. Run the code!
+
 References:
 ===========
 
