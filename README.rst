@@ -15,7 +15,7 @@ The dataset can be downloaded here:
 `https://datasets.simula.no/kvasir-seg <https://datasets.simula.no/kvasir-seg/>`_
 
 .. image:: https://www.nora.ai/Competition/2dadc75e-8fca-4411-88a0-65a3f1cc92be.jpeg
-**Figure 1:** The Kvasir-SEG Dataset contains 1000 images of segmented polyps
+**Figure 1:** The Kvasir-SEG Dataset contains 1000 images of segmented polyps [1]
 
 
 Kvasir-Instrument Dataset
@@ -25,7 +25,7 @@ The dataset can be downloaded here:
 `https://datasets.simula.no/kvasir-instrument/ <https://datasets.simula.no/kvasir-instrument/>`_
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
-**Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images
+**Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images [2]
 
 Starter code:
 -------------
