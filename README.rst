@@ -14,10 +14,16 @@ This Github repository contains a starter code for `the Kvasir-SEG Dataset <http
 
 .. image:: https://img.shields.io/github/forks/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation
         :target: https://github.com/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation/network
+        
+hyperkvasir-starter-code
 
 .. image:: https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg
    :target: https://GitHub.com/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation/hyperkvasir-starter-code.ipynb/releases/)
-   
+
+kvasir-instrument-starter-code
+
+.. image:: https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg
+   :target: https://GitHub.com/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation/kvasir-instrument-starter-code.ipynb/releases/)
 Data:
 =====
 
