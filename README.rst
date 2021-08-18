@@ -9,6 +9,7 @@ This Github repository contains a starter code for `the Kvasir-SEG Dataset <http
 
 .. image:: https://www.nora.ai/Competition/2dadc75e-8fca-4411-88a0-65a3f1cc92be.jpeg
 **Figure 1:** This github repository contains a starter code for The Kvasir-SEG Dataset
+
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
 **Figure 2:** 
 
