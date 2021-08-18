@@ -7,8 +7,7 @@ This Github repository contains a starter code for `the Kvasir-SEG Dataset <http
 
 
 
-.. image:: https://www.nora.ai/Competition/2dadc75e-8fca-4411-88a0-65a3f1cc92be.jpeg
-**Figure 1:** This github repository contains a starter code for The Kvasir-SEG Dataset
+
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
 **Figure 2:** 
@@ -19,9 +18,13 @@ Data:
 
 Kvasir-SEG Dataset
 ^^^^^^^^^^^^^^^^^^
+
 The Kvasir-SEG dataset (size 46.2 MB) contains 1000 polyp images and their corresponding ground truth from the Kvasir Dataset v2 [1].
 The dataset can be downloaded here:
 `https://datasets.simula.no/kvasir-seg <https://datasets.simula.no/kvasir-seg/>`_
+
+.. image:: https://www.nora.ai/Competition/2dadc75e-8fca-4411-88a0-65a3f1cc92be.jpeg
+**Figure 1:** The Kvasir-SEG Dataset contains 1000 images of segmented polyps
 
 
 Kvasir-Instrument Dataset
@@ -30,6 +33,8 @@ The Kvasir-Instrument dataset (size 170 MB) contains 590 endoscopic tool images 
 The dataset can be downloaded here:
 `https://datasets.simula.no/kvasir-instrument/ <https://datasets.simula.no/kvasir-instrument/>`_
 
+.. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
+**Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images
 References:
 ===========
 
