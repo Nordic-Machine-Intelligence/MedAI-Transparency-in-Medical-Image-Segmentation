@@ -29,10 +29,10 @@ The dataset can be downloaded here:
 
 Run the code:
 -------------
-You can run the code by follwing this steps:
 
-#. Fork and clone this repository
-#. Download the data and extract it to the same folder as the two Jupyter notebooks in this repository
+
+You can run the code by Fork and clone this repository. Then download the datasets and extract them to this cloned repository.
+The folder structrure should look like this: 
     
  | hyperkvasir-starter-code.ipynb
  | kvasir-instrument-starter-code.ipynb
@@ -59,7 +59,8 @@ You can run the code by follwing this steps:
  | │   └── masks
  | |        ├── cju0qkwl35piu0993l0dewei2.jpg
  | |        └── xxxxxxxxxxxxxxxxxxxxxxxxx.jpg 
-#. Run the code!
+ 
+pip install the necessary python packages and run the code!
 
 References:
 ===========
