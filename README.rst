@@ -27,9 +27,12 @@ The dataset can be downloaded here:
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
 **Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images
 
+Starter code:
+-------------
+The two jupyter notebooks in this repository give you a fundament for staring the development of the polyp and instrument segmentation tasks. As a baseline model we have provided a Unet build with Keras. Finally, we run the model inside a 10-fold cross-validation loop and we encourage the participants to also use som kind of resampling methods when reporting the results on the development set in the final paper to Nordic Machine Intelligence. 
+
 Run the code:
 -------------
-
 
 You can run the code by Fork and clone this repository. Then download the datasets and extract them to this cloned repository.
 The folder structrure should look like this: 
@@ -50,7 +53,7 @@ The folder structrure should look like this:
  | │   └── masks
 
  
-pip install the necessary python packages and run the code!
+Finally, yo should pip install the necessary python packages and then you can run the code!
 
 References:
 ===========
