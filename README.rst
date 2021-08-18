@@ -2,7 +2,7 @@
 MedAI-Transparency-in-Medical-Image-Segmentation
 ************************************************
 
-This Github repository contains a starter code for `the Kvasir-SEG Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_  and `the Kvasir-Instrument Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_
+This Github repository contains a starter code for `the Kvasir-SEG Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_  and `the Kvasir-Instrument Dataset <https://datasets.simula.no/kvasir-instrument/>`_ [#]_
 
 
 
@@ -16,26 +16,19 @@ This Github repository contains a starter code for `the Kvasir-SEG Dataset <http
 
 Data:
 =====
-The data set in this project contains 43.101 ECGs and comes from six different sources. Table 1 show the six sources.
 
-**Table 1:** *The table lists the six different sources used in the data set in this project*
+Kvasir-SEG Dataset
+^^^^^^^^^^^^^^^^^^
+The Kvasir-SEG dataset (size 46.2 MB) contains 1000 polyp images and their corresponding ground truth from the Kvasir Dataset v2 [1].
+The dataset can be downloaded here:
+`https://datasets.simula.no/kvasir-seg <https://datasets.simula.no/kvasir-seg/>`_
 
-+-----------------+---------------------------------------------------+
-| Data set number | Name                                              |
-+-----------------+---------------------------------------------------+
-| 1               | China Physiological Signal Challenge 2018         |
-+-----------------+---------------------------------------------------+
-| 2               | China Physiological Signal Challenge 2018 Extra   |
-+-----------------+---------------------------------------------------+
-| 3               | St.Petersburg Institute of Cardiological Technics |
-+-----------------+---------------------------------------------------+
-| 4               | PTB Diagnostics                                   |
-+-----------------+---------------------------------------------------+
-| 5               | PTB-XL                                            |
-+-----------------+---------------------------------------------------+
-| 6               | Georgia 12-Lead ECG Challenge Database            |
-+-----------------+---------------------------------------------------+
 
+Kvasir-Instrument Dataset
+^^^^^^^^^^^^^^^^^^^^^^^^^
+The Kvasir-Instrument dataset (size 170 MB) contains 590 endoscopic tool images and their ground truth mask [2].
+The dataset can be downloaded here:
+`https://datasets.simula.no/kvasir-instrument/ <https://datasets.simula.no/kvasir-instrument/>`_
 
 References:
 ===========
