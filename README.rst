@@ -4,9 +4,9 @@ MedAI-Transparency-in-Medical-Image-Segmentation
 
 This Github repository contains a starter code for `the Kvasir-SEG Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_  and `the Kvasir-Instrument Dataset <https://datasets.simula.no/kvasir-instrument/>`_ [#]_
 
-|made-with-python|
 
-.. |made-with-python| image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
+
+.. image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
    :target: https://www.python.org/
 
 .. image:: https://img.shields.io/github/stars/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation
