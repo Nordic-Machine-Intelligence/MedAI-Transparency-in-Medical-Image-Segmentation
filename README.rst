@@ -30,17 +30,35 @@ The dataset can be downloaded here:
 Run the code:
 -------------
 You can run the code by follwing this steps:
+
 #. Fork and clone this repository
 #. Download the data and extract it to the same folder as the two Jupyter notebooks in this repository
     
  | hyperkvasir-starter-code.ipynb
  | kvasir-instrument-starter-code.ipynb
  | ├── kvasir-instrument         
- | │   ├── A0001.hea
- | │   ├── A0001.dat
- | │   ├── A0002.hea
- | │   ├── A0002.dat
- | │   └── Axxxx.dat
+ | │   ├── bboxes.json
+ | │   ├── test.txt
+ | │   ├── train.txt
+ | │   ├── images
+ | │   │    └── images
+ | |   |        ├── ckcu8ty6z00003b5yzfaezbs5.jpg
+ | |   |        └── xxxxxxxxxxxxxxxxxxxxxxxxx.jpg 
+ | │   └── masks
+ | │         └── masks
+ | |             ├── ckcu8ty6z00003b5yzfaezbs5.png
+ | |             └── xxxxxxxxxxxxxxxxxxxxxxxxx.png
+ | | 
+ | ├── kvasir-SEG        
+ | │   ├── kavsir_bboxes.json
+ | │   ├── test.txt
+ | │   ├── train.txt
+ | │   ├── images
+ | |   |    ├── cju0qkwl35piu0993l0dewei2.jpg
+ | |   |    └── xxxxxxxxxxxxxxxxxxxxxxxxx.jpg 
+ | │   └── masks
+ | |        ├── cju0qkwl35piu0993l0dewei2.jpg
+ | |        └── xxxxxxxxxxxxxxxxxxxxxxxxx.jpg 
 #. Run the code!
 
 References:
