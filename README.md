@@ -1,1 +1,0 @@
-# MedAI-Transparency-in-Medical-Image-Segmentation
