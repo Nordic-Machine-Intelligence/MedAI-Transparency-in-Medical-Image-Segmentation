@@ -2,7 +2,7 @@
 MedAI-Transparency-in-Medical-Image-Segmentation
 ************************************************
 
-This Github repository contains a starter code for `the Kvasir-SEG Dataset <https://datasets.simula.no/kvasir-seg/>`_[#]_  and `the Kvasir-Instrument Dataset <https://datasets.simula.no/kvasir-seg/>`_[#]_
+This Github repository contains a starter code for `the Kvasir-SEG Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_  and `the Kvasir-Instrument Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_
 
 
 
@@ -34,4 +34,13 @@ The data set in this project contains 43.101 ECGs and comes from six different s
 +-----------------+---------------------------------------------------+
 | 6               | Georgia 12-Lead ECG Challenge Database            |
 +-----------------+---------------------------------------------------+
+
+
+References:
+===========
+
+.. [#] Debesh Jha, Pia H. Smedsrud, Michael A. Riegler, Pål Halvorsen, Dag Johansen, Thomas de Lange, and Håvard D. Johansen, Kvasir-SEG: A Segmented Polyp Dataset, In Proceedings of the ternational conference on Multimedia Modeling, Republic of Korea, 2020.
+.. [#] Jha, Debesh, et al. “Kvasir-instrument: Diagnostic and Therapeutic Tool Segmentation Dataset in Gastrointestinal Endoscopy.” OSF Preprints, 15 Aug. 2020. Web
+
+
 
