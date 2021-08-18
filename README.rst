@@ -41,24 +41,15 @@ The folder structrure should look like this:
  | │   ├── test.txt
  | │   ├── train.txt
  | │   ├── images
- | │   │    └── images
- | |   |        ├── ckcu8ty6z00003b5yzfaezbs5.jpg
- | |   |        └── xxxxxxxxxxxxxxxxxxxxxxxxx.jpg 
  | │   └── masks
- | │         └── masks
- | |             ├── ckcu8ty6z00003b5yzfaezbs5.png
- | |             └── xxxxxxxxxxxxxxxxxxxxxxxxx.png
  | | 
  | ├── kvasir-SEG        
  | │   ├── kavsir_bboxes.json
  | │   ├── test.txt
  | │   ├── train.txt
  | │   ├── images
- | |   |    ├── cju0qkwl35piu0993l0dewei2.jpg
- | |   |    └── xxxxxxxxxxxxxxxxxxxxxxxxx.jpg 
  | │   └── masks
- | |        ├── cju0qkwl35piu0993l0dewei2.jpg
- | |        └── xxxxxxxxxxxxxxxxxxxxxxxxx.jpg 
+
  
 pip install the necessary python packages and run the code!
 
