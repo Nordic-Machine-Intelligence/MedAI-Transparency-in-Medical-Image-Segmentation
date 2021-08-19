@@ -6,16 +6,16 @@ This Github repository contains a starter code for `the Kvasir-SEG Dataset <http
 
 
 ..
-.. image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
+_.. image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
 ..
-   :target: https://www.python.org/
+-   :target: https://www.python.org/
 ..
-.. image:: https://img.shields.io/github/stars/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation
+_.. image:: https://img.shields.io/github/stars/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation
         :target: https://github.com/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation/stargazers
 ..
-.. image:: https://img.shields.io/github/forks/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation
+_.. image:: https://img.shields.io/github/forks/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation
 ..
-        :target: https://github.com/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation/network
+_        :target: https://github.com/Nordic-Machine-Intelligence/MedAI-Transparency-in-Medical-Image-Segmentation/network
         
 
 Data:
