@@ -46,7 +46,7 @@ The two jupyter notebooks in this repository give you a fundament for staring th
 Run the code:
 -------------
 
-You can run the code by Fork and clone this repository. Then download the datasets and extract them to this cloned repository.
+You can run the code by forking and clone this repository. Then download the datasets and extract them to this cloned repository.
 The folder structrure should look like this: 
     
  | ├── hyperkvasir-starter-code.ipynb
@@ -65,7 +65,7 @@ The folder structrure should look like this:
  | │   └── masks
 
  
-Finally, yo should pip install the necessary python packages and then you can run the code!
+Finally, you should pip install the necessary python packages and then you can run the code!
 
 References:
 ===========
