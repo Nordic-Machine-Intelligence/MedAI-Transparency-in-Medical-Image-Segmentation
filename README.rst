@@ -28,19 +28,14 @@ The Kvasir-Instrument dataset (size 170 MB) contains 590 endoscopic tool images 
 The dataset amd information about the dataset can be found here:
 `https://datasets.simula.no/kvasir-instrument/ <https://datasets.simula.no/kvasir-instrument/>`_
 
-Unzip the instrument dataset
+unzip the file using this command in cmd:
 
 tar -xf kvasir-instrument.tar.gz
 
-Unzip the two folder inside kvasir-instrument folder
-
-tar -xf images.tar.gz
+and then go to /kvasir-instrument in cmd and write following two commands:
 
 tar -xf masks.tar.gz
-
-
-
-
+tar -xf images.tar.gz
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
 **Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images [2]
