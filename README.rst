@@ -21,8 +21,12 @@ The dataset can be downloaded here:
 Kvasir-Instrument Dataset
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 The Kvasir-Instrument dataset (size 170 MB) contains 590 endoscopic tool images and their ground truth mask [2].
-The dataset can be downloaded here:
+The dataset amd information about the dataset can be foud here:
 `https://datasets.simula.no/kvasir-instrument/ <https://datasets.simula.no/kvasir-instrument/>`_
+
+or you can download it directly form here:
+`here/ <https://www.kaggle.com/bjoernjostein/kvasir-instrument-segmentation/download/>`_
+
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
 **Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images [2]
