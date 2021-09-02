@@ -34,8 +34,8 @@ tar -xf kvasir-instrument.tar.gz
 
 and then go to /kvasir-instrument in cmd and write following two commands:
 
-tar -xf masks.tar.gz
-tar -xf images.tar.gz
+t> ar -xf masks.tar.gz
+> tar -xf images.tar.gz
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
 **Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images [2]
