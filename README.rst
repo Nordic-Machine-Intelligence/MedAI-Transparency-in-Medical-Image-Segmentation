@@ -33,10 +33,13 @@ unzip the file using this command in cmd:
 tar -xf kvasir-instrument.tar.gz
 
 and then go to /kvasir-instrument in cmd and write following two commands:
+
 Unzip the mask folder:
+
 tar -xf masks.tar.gz
 
 Unzip the image folder:
+
 tar -xf images.tar.gz
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
