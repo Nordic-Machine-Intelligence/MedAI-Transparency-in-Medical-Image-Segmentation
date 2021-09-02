@@ -32,6 +32,9 @@ The dataset amd information about the dataset can be found here:
 or you can download it directly form 
 `here <https://www.kaggle.com/bjoernjostein/kvasir-instrument-segmentation/download/>`_
 
+You can extract the files inside the tar.gz file using this command in the cmd:
+
+> tar -xf kvasir-instrument.tar.gz
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
 **Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images [2]
