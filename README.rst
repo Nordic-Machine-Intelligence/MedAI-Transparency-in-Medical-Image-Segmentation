@@ -14,8 +14,7 @@ The Kvasir-SEG dataset (size 46.2 MB) contains 1000 polyp images and their corre
 The dataset amd information about the dataset can be found here:
 `https://datasets.simula.no/kvasir-seg <https://datasets.simula.no/kvasir-seg/>`_
 
-or you can download it directly form 
-`here <https://www.kaggle.com/bjoernjostein/hyperkvasiraugustversion/download/>`_
+
 
 
 
@@ -29,8 +28,7 @@ The Kvasir-Instrument dataset (size 170 MB) contains 590 endoscopic tool images 
 The dataset amd information about the dataset can be found here:
 `https://datasets.simula.no/kvasir-instrument/ <https://datasets.simula.no/kvasir-instrument/>`_
 
-or you can download it directly form 
-`here <https://www.kaggle.com/bjoernjostein/kvasir-instrument-segmentation/download/>`_
+
 
 You can extract the files inside the tar.gz file using this command in the cmd:
 
