@@ -25,7 +25,7 @@ The dataset amd information about the dataset can be foud here:
 `https://datasets.simula.no/kvasir-instrument/ <https://datasets.simula.no/kvasir-instrument/>`_
 
 or you can download it directly form here:
-`here/ <https://www.kaggle.com/bjoernjostein/kvasir-instrument-segmentation/download/>`_
+`here <https://www.kaggle.com/bjoernjostein/kvasir-instrument-segmentation/download/>`_
 
 
 .. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
