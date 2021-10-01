@@ -51,7 +51,7 @@ The first and second place winners of the challenge will be awared with the foll
 * First Prize: 5,000 Euro
 * Second Prize: 2,500 Euro
 
-The winning team will be announced during the [NordicAIMeet2021](https://nordicaimeet.com/) hosted on the 1-2nd of November at the Oslo Kongressenter.
+The winning team will be announced during the [Nordic AI Meet2021](https://nordicaimeet.com/) hosted on the 1-2nd of November at the Oslo Kongressenter.
 
 ## Schedule
 
